@@ -3,7 +3,7 @@
 
 ## Developer Tech
 
-https://github.com/gh9727/ColoredBadges?tab=readme-ov-file#
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 <!-- 
 prs: 작성 시 내 PR을 Hide, 작성 안 할시 내 PR을 Open
