@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 <!-- 
 prs: 작성 시 내 PR을 Hide, 작성 안 할시 내 PR을 Open
 
