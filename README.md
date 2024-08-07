@@ -11,7 +11,6 @@
 
 ### BACKEND
 <p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
@@ -49,6 +48,9 @@ prs: 작성 시 내 PR을 Hide, 작성 안 할시 내 PR을 Open
 <!--
 사용 가능 목록
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh9727)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+
 
 사용 안할 & 불가능한 목록
 <img src="https://capsule-render.vercel.app/api?type=모양&color=BF00FF&height=150&section=header&text=텍스트&fontSize=텍스트크기" />
