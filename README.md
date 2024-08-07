@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&hide=contribs,prs&show_icons=true&theme=테마)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh9727&hide=contribs,prs&show_icons=true&theme=테마)
 
 <!--
 사용 가능 목록
