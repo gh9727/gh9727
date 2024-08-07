@@ -1,6 +1,9 @@
 ## Hi there 👋
-<!-- theme: 배경화면 색 설정, prs&show_icons=true&-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh9727&hide=contribs,&show_icons=true&theme=radical)
+<!-- 
+&theme: 배경화면 색 설정, 
+prs&show_icons=true&
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh9727&hide=contribs,prs&show_icons=true&theme=radical)
 
 <!--
 사용 가능 목록
