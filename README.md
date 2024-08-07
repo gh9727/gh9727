@@ -1,9 +1,10 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+<!--
 
 <img src="https://capsule-render.vercel.app/api?type=모양&color=BF00FF&height=150&section=header&text=텍스트&fontSize=텍스트크기" />
 
-
-<!--
 **gh9727/gh9727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
