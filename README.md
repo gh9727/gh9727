@@ -1,7 +1,10 @@
 ## Hi there 👋
 <!-- 
+prs: 작성 시 내 PR을 Hide, 작성 안 할시 내 PR을 Open
+
+&show_icons=true: Stats 아이콘 사용
+
 &theme: 배경화면 색 설정, 
-prs&show_icons=true&
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh9727&hide=contribs,&show_icons=true&theme=radical)
 
