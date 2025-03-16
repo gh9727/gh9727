@@ -1,9 +1,5 @@
 <!-- Language > Front > Back 순서 -->
 
-## STATS
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh9727&hide=contribs,&show_icons=true&theme=radical)
-
 <!-- 
 prs: 작성 시 내 PR을 Hide, 작성 안 할시 내 PR을 Open
 
